@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:title="Draw" app:showAsAction="never"
+        android:id="@+id/menu_draw"/>
+    <item android:title="List of users" app:showAsAction="never"
+        android:id="@+id/menu_list_users"/>
+    <item android:title="Sign Out" app:showAsAction="never"
+        android:id="@+id/menu_sign_out"/>
+</menu>

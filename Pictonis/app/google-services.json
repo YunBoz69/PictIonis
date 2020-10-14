@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22822424844",
+    "firebase_url": "https://pictonis-73871.firebaseio.com",
+    "project_id": "pictonis-73871",
+    "storage_bucket": "pictonis-73871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22822424844:android:eec13faef14da987477929",
+        "android_client_info": {
+          "package_name": "com.example.pictonis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22822424844-dlfn5sp3l8mv6f98od5v5dosds83rdkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pictonis",
+            "certificate_hash": "617d9e40f3bbeb1d52be1542257f064a4d2b2117"
+          }
+        },
+        {
+          "client_id": "22822424844-2pdp756g7jbb2ab78dif6m98j8ucatlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWoanaqaBjuY2B985hRotFVQBdCFzWiyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22822424844-2pdp756g7jbb2ab78dif6m98j8ucatlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
